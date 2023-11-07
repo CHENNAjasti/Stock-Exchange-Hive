@@ -1,0 +1,4 @@
+-->To begin with you need to download the .csv file and upload into your hadoop ecosystem 
+
+-->Now launch the ssh client and login useing your root privilages 
+-->get your file into the local by useing -get command
